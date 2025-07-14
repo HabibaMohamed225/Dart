@@ -1,0 +1,7 @@
+void main() {
+var a = 10;
+  dynamic b = "string";
+  //print(a + b); //ُError
+  b = 10.5;
+  print(a + b); // 20.5
+}
