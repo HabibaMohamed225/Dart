@@ -1,0 +1,6 @@
+void main() {
+var x = null;
+  dynamic? y;
+  print(x);
+  print(y);
+}
