@@ -1,0 +1,8 @@
+void main() {
+dynamic x = 7;
+  print(x);
+  x = "Hello";
+  print(x);
+  x = true;
+  print(x);
+}
