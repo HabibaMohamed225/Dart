@@ -1,0 +1,8 @@
+void main() {
+var a = "hi";
+  dynamic b = 15;
+  //a = 15; //Error
+  b = "Hi";
+  print(a);
+  print(b);
+}
