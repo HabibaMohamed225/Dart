@@ -1,0 +1,9 @@
+dynamic multiply(dynamic x) {
+  return x * 2;
+}
+void main() {
+dynamic y = 10;
+  print(multiply(y));
+  y = "Hello";
+  print(multiply(y));
+}
